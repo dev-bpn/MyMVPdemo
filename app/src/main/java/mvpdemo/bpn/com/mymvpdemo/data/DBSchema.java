@@ -4,15 +4,6 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-/**
- * ---------------------------------------------------
- * Created by Tin Megali on 18/03/16.
- * Project: tuts+mvp_sample
- * ---------------------------------------------------
- * <a href="http://www.tinmegali.com">tinmegali.com</a>
- * <a href="http://www.github.com/tinmegali>github</a>
- * ---------------------------------------------------
- */
 public class DBSchema extends SQLiteOpenHelper {
 
     private static final int DB_VERSION = 1;

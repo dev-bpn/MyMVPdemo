@@ -8,15 +8,6 @@ import android.widget.TextView;
 
 import mvpdemo.bpn.com.mymvpdemo.R;
 
-/**
- * ---------------------------------------------------
- * Created by Tin Megali on 18/03/16.
- * Project: tuts+mvp_sample
- * ---------------------------------------------------
- * <a href="http://www.tinmegali.com">tinmegali.com</a>
- * <a href="http://www.github.com/tinmegali>github</a>
- * ---------------------------------------------------
- */
 public class NotesViewHolder extends RecyclerView.ViewHolder {
 
     public RelativeLayout container;

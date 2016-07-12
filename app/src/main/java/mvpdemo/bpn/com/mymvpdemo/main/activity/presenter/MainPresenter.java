@@ -22,14 +22,6 @@ import mvpdemo.bpn.com.mymvpdemo.models.Note;
 
 /**
  * Presenter layer on Model View Presenter pattern
- * <p/>
- * ---------------------------------------------------
- * Created by Tin Megali on 18/03/16.
- * Project: tuts+mvp_sample
- * ---------------------------------------------------
- * <a href="http://www.tinmegali.com">tinmegali.com</a>
- * <a href="http://www.github.com/tinmegali>github</a>
- * ---------------------------------------------------
  */
 public class MainPresenter implements MVP_Main.ProvidedPresenterOps, MVP_Main.RequiredPresenterOps {
 

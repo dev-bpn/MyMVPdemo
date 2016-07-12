@@ -1,15 +1,5 @@
 package mvpdemo.bpn.com.mymvpdemo.common;
 
-/**
- * ---------------------------------------------------
- * Created by Tin Megali on 19/03/16.
- * Project: tuts+mvp_sample
- * ---------------------------------------------------
- * <a href="http://www.tinmegali.com">tinmegali.com</a>
- * <a href="http://www.github.com/tinmegali>github</a>
- * ---------------------------------------------------
- */
-
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.os.Bundle;
@@ -22,18 +12,6 @@ import java.util.HashMap;
  * Retains and maintain object's state between configuration changes
  * in Activitys and Fragments.
  * <p/>
- * Created by Tin Megali on 24/02/16. <br>
- * Project: AndroidMVP <br>
- * <p/>
- * <a href="http://www.tinmegali.com">www.tinmegali.com</a>
- * Based on <a href="https://github.com/douglascraigschmidt/POSA-15/tree/master/ex/AcronymExpander/src/vandy/mooc">
- * framework MVP</a> developed by
- * <a href="https://github.com/douglascraigschmidt">
- * Dr. Douglas Schmidth</a>
- *
- * @see <a href="https://github.com/tinmegali/simple-mvp">Project's Git</a> <br>
- * @see <a href="https://github.com/tinmegali/simple-mvp/tree/master/AndroidMVP/app">Sample Application</a>
- * @see <a href="https://github.com/tinmegali/simple-mvp/blob/master/AndroidMVP/app/src/main/java/com/tinmegali/androidmvp/main/MVP_MainActivity.java">
  * Sample MVP interface
  * </a>
  */

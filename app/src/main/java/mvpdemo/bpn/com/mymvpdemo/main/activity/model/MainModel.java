@@ -8,14 +8,6 @@ import mvpdemo.bpn.com.mymvpdemo.models.Note;
 
 /**
  * Model layer on Model View Presenter Pattern
- * <p/>
- * ---------------------------------------------------
- * Created by Tin Megali on 18/03/16.
- * Project: tuts+mvp_sample
- * ---------------------------------------------------
- * <a href="http://www.tinmegali.com">tinmegali.com</a>
- * <a href="http://www.github.com/tinmegali>github</a>
- * ---------------------------------------------------
  */
 public class MainModel implements MVP_Main.ProvidedModelOps {
 
